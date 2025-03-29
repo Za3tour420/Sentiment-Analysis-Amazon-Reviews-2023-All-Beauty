@@ -1,7 +1,7 @@
 # Sentiment-Analysis-Amazon-Reviews-2023-All-Beauty
 
 ## Dataset Acknowledgment
-This project uses the **Amazon Reviews 2023 dataset** from:
+This project uses a custom version of the **Amazon Reviews 2023 dataset** from:
 
 Hou, Yupeng and Li, Jiacheng and He, Zhankui and Yan, An and Chen, Xiusi and McAuley, Julian.  
 *"Bridging Language and Items for Retrieval and Recommendation."*  
