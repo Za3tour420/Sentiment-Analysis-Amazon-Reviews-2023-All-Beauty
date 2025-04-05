@@ -1,0 +1,17 @@
+nltk
+pandas
+scipy
+scikit-learn
+datasets
+seaborn
+xgboost
+numpy
+gensim
+ipykernel
+numpy
+plotly
+nbformat>=4.2.0
+requests
+pillow
+transformers
+accelerate
